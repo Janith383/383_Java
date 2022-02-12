@@ -41,20 +41,7 @@ public class Main {
 
         System.out.println("avgInt = " + avgInt);
         System.out.println("avgIntDouble = " + avgIntDouble);
-        System.out.println("avgDouble = " + avgDouble);
-
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println("avgDouble = " + avgDouble)++;
 
 
 
